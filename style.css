@@ -1,0 +1,9 @@
+body{
+	background-color: gray;
+}
+div#contenu {
+	width:600px;
+	height:400px;
+	background-color:#FFCC00;
+	
+}
